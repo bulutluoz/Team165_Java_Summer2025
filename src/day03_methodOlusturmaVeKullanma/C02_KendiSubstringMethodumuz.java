@@ -50,5 +50,8 @@ public class C02_KendiSubstringMethodumuz {
 
 
 
+
+
+
     }
 }
