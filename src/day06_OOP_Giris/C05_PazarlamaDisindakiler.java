@@ -11,8 +11,8 @@ public class C05_PazarlamaDisindakiler {
         // private olanlari ne goruntuleyebiliyoruz
         // ne de deger atayabiliyoruz
 
-        obje.satisMiktariDef = 5000;
-        System.out.println(obje.satisMiktariDef);
+        obje.satisMiktariDef = 5000; // write yetkisi - deger atayabilme / update yapabilme
+        System.out.println(obje.satisMiktariDef); // read yetkisi / degeri goruntuleme
         // default access modifier'a sahip  olanlari
         // hem goruntuleyebiliyoruz
         // hem de deger atayabiliyoruz
